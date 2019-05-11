@@ -1,5 +1,5 @@
 # TI1K-Dataset
-The dataset has been used in [Finger gesture-based Mixed Reality interaction system](http:// ) in the egocentric vision where real-time fingertip 
+The dataset has been used in [Finger gesture-based Mixed Reality interaction system](https://github.com/MahmudulAlam/Fingertip-Mixed-Reality) in the egocentric vision where real-time fingertip 
 detection and tracking system is introduced. If you are interested, please visit the project GitHub page. 
 
 ## Dataset-Description
