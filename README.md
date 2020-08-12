@@ -1,8 +1,11 @@
-<h1 align="center">TI1K Dataset</h1>
+<h1 align="center">TI1K Dataset :point_up_2::raised_hand_with_fingers_splayed:</h1>
 
-The dataset has been used in [Finger gesture-based Mixed Reality interaction system](https://github.com/MahmudulAlam/Fingertip-Mixed-Reality) in the egocentric vision where real-time fingertip detection and tracking system is introduced. If you are interested, please visit the project GitHub page. If you use the dataset, please cite the following paper as
+The dataset has been used in [Affine Transformation of Virtual Object](https://github.com/MahmudulAlam/Fingertip-Mixed-Reality) in the egocentric vision where real-time fingertip detection and tracking system is introduced. If you are interested, please visit the GitHub page. If you use the dataset, please cite the following paper as
 
 ### Paper 
+
+[![Paper](https://img.shields.io/badge/paper-IeeeXplore-blue.svg?longCache=true&style=flat)](https://ieeexplore.ieee.org/abstract/document/9035256)
+
 ```
 @inproceedings{alam2019detection,
   title={Detection and Tracking of Fingertips for Geometric Transformation of Objects in Virtual Environment},
@@ -44,4 +47,4 @@ Here is a sample image from the dataset along with its ground truth annotation:
 The total dataset is split into two parts. Among 1000 images, 900 images are for the training set and 100 images for the test set.  
 
 ### Evaluation 
-For evaluation purpose of the real-time fingertip detection and tracking system, real-time video of both left- and right-hand fingers have been taken. The evaluation folder contains three folders of four videos of the hand finger movement of the four participants. All the video file in the '.mp4' format contains 50 frame sequences with resolution 640x480 at 10 frames per second. Each folder contains the corresponding annotations too. The format of the annotation of the videos is as same as the dataset images.
+For evaluation purpose of the real-time fingertip detection and tracking system, real-time video of both left- and right-hand fingers have been taken. The evaluation folder contains three folders of four videos of the hand finger movement of the four participants. All the video file in the ```'.mp4'``` format contains 50 frame sequences with resolution 640x480 at 10 frames per second. Each folder contains the corresponding annotations too. The format of the annotation of the videos is as same as the dataset images.
