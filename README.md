@@ -1,16 +1,34 @@
 <h1 align="center">TI1K Dataset :point_up_2::raised_hand_with_fingers_splayed:</h1>
 
-The dataset has been used in [Affine Transformation of Virtual Object](https://github.com/MahmudulAlam/Fingertip-Mixed-Reality) in the egocentric vision where real-time fingertip detection and tracking system is introduced. If you are interested, please visit the GitHub page. If you use the dataset, please cite the following paper as
+The dataset has been used in [Affine Transformation of Virtual Object](https://github.com/MahmudulAlam/Fingertip-Mixed-Reality) in the egocentric vision where real-time fingertip detection and tracking system is introduced. If you are interested, please visit the GitHub page. The dataset has been developed and updated for the following papers. If you use the dataset, please cite the the papers as
 
 ### Paper 
 
-[![Paper](https://img.shields.io/badge/paper-IeeeXplore-blue.svg?longCache=true&style=flat)](https://ieeexplore.ieee.org/abstract/document/9035256)
+| [![Paper](https://img.shields.io/badge/paper-ScienceDirect-f2862e.svg?longCache=true&style=flat)](https://doi.org/10.1016/j.vrih.2020.10.001) 	|   ![](https://img.shields.io/badge/-v2.0-brightgreen)	|
+|:-:	|:-:	|
+
+```
+@article{alam2020affine,
+  title={Affine transformation of virtual 3D object using 2D localization of fingertips},
+  author={Alam, Mohammad Mahmudul and Rahman, SM Mahbubur},
+  journal={Virtual Reality \& Intelligent Hardware},
+  volume={2},
+  number={6},
+  pages={534--555},
+  year={2020},
+  publisher={Elsevier}
+}
+```
+
+|  [![Paper](https://img.shields.io/badge/paper-IeeeXplore-blue.svg?longCache=true&style=flat)](https://ieeexplore.ieee.org/abstract/document/9035256) 	|  ![](https://img.shields.io/badge/-v1.0-brightgreen) 	|
+|:-:	|:-:	|
 
 ```
 @inproceedings{alam2019detection,
   title={Detection and Tracking of Fingertips for Geometric Transformation of Objects in Virtual Environment},
   author={Alam, Mohammad Mahmudul and Rahman, SM Mahbubur},
   booktitle={2019 IEEE/ACS 16th International Conference on Computer Systems and Applications (AICCSA)},
+  address = {Abu Dhabi, United Arab Emirates},
   pages={1--8},
   year={2019},
   organization={IEEE}
@@ -24,7 +42,7 @@ The dataset includes the natural movement of thumb and index fingers making it s
 The dataset contains images only with the thumb and index fingers of both hands of resolution ```640x480```. All the annotations of the
 training and test images are in the "label.txt" file in the Annotation folder. The format of the annotation is: 
 
-[name of the image, xtl, ytl, xbr, ybr, xt, yt, xi, yi]
+```[name of the image, xtl, ytl, xbr, ybr, xt, yt, xi, yi]```
 
 * xtl = x coordinate of the top left corner of the hand bounding box 
 * ytl = y coordinate of the top left corner of the hand bounding box 
