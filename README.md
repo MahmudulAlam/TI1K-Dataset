@@ -4,8 +4,10 @@ The dataset has been used in [Affine Transformation of Virtual Object](https://g
 
 ### Paper 
 
-| [![Paper](https://img.shields.io/badge/paper-ScienceDirect-f2862e.svg?longCache=true&style=flat)](https://doi.org/10.1016/j.vrih.2020.10.001) 	|   ![](https://img.shields.io/badge/-v2.0-brightgreen)	| [***```Affine transformation of virtual 3D object using 2D localization of fingertips```***](https://www.sciencedirect.com/science/article/pii/S2096579620300917?via%3Dihub) 🔗 |
-|:-:	|:-:	| :-: |
+[![Paper](https://img.shields.io/badge/paper-ScienceDirect-orange.svg?longCache=true&style=flat)](https://doi.org/10.1016/j.vrih.2020.10.001)
+![](https://img.shields.io/badge/-v2.0-brightgreen)
+
+[***```Affine transformation of virtual 3D object using 2D localization of fingertips```***](https://www.sciencedirect.com/science/article/pii/S2096579620300917?via%3Dihub) 🔗
 
 ```
 @article{alam2020affine,
@@ -20,8 +22,10 @@ The dataset has been used in [Affine Transformation of Virtual Object](https://g
 }
 ```
 
-|  [![Paper](https://img.shields.io/badge/paper-IeeeXplore-blue.svg?longCache=true&style=flat)](https://ieeexplore.ieee.org/abstract/document/9035256) 	|  ![](https://img.shields.io/badge/-v1.0-brightgreen) 	| [***```Detection and Tracking of Fingertips for Geometric Transformation of Objects in Virtual Environment```***](https://ieeexplore.ieee.org/abstract/document/9035256) 🔗 |
-|:-:	|:-:	| :-:	|
+[![Paper](https://img.shields.io/badge/paper-IeeeXplore-blue.svg?longCache=true&style=flat)](https://ieeexplore.ieee.org/abstract/document/9035256)
+![](https://img.shields.io/badge/-v1.0-brightgreen)
+
+[***```Detection and Tracking of Fingertips for Geometric Transformation of Objects in Virtual Environment```***](https://ieeexplore.ieee.org/abstract/document/9035256) 🔗
 
 ```
 @inproceedings{alam2019detection,
